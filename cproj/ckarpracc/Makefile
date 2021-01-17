@@ -19,8 +19,8 @@ CFLAGS=-g -D__USE_FIXED_PROTOTYPES__ -ansi
 # -ansi -- Don't use GNU extensions. Stick to ANSI C. , 
 # 
 
-hellothere: hellothere.c
-	$(CC) $(CFLAGS) -o hellothere hellothere.c
+addition: addition.c
+	$(CC) $(CFLAGS) -o addition addition.c
 
 clean:
-	rm -f hellothere
+	rm -f addition
