@@ -15,12 +15,12 @@ CFLAGS=-g -D__USE_FIXED_PROTOTYPES__ -ansi
 # -g    -- Enable debugging
 # -Wall -- Turn on all warnings (not used since it gives away the bug in this program) 
 # -D__USE_FIXED_PROTOTYPES__
-# 		-- Force the compiler to use the correct headers 
-# -ansi -- Don't use GNU extensions. Stick to ANSI C. , 
-# 
+# 		-- Force the compiler to use the correct headers  
+# -ansi -- Don't use GNU extensions. Stick to ANSI C.
+#
 
-areaOfCircel: areaOfCircel.c
-	$(CC) $(CFLAGS() -o areaOfCircel areaOfCircel.c
+areaOfCircle: areaofCircle_1.c
+	$(CC) $(CFLAGS) -o areaOfCircle areaofCircle_1.c
 
 clean:
-	rm -f areaOfCircel
+	rm -f areaOfCircle

@@ -19,8 +19,8 @@ CFLAGS=-g -D__USE_FIXED_PROTOTYPES__ -ansi
 # -ansi -- Don't use GNU extensions. Stick to ANSI C. , 
 # 
 
-areaOfCircel: areaOfCircel.c
-	$(CC) $(CFLAGS() -o areaOfCircel areaOfCircel.c
+ramaddress: ramaddress.c
+	  -o ramaddress ramaddress.c
 
 clean:
-	rm -f areaOfCircel
+	rm -f ramaddress
