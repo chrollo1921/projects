@@ -1,0 +1,14 @@
+#!/bin/bash
+
+my_func(){
+  if [ -f /etc/os-release222222222222 ];
+  then
+    cat /etc/os-release
+  else
+    echo "There is no /etc/os-release file in the OS!!"
+  fi
+
+
+}
+
+my_func

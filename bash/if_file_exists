@@ -1,0 +1,19 @@
+#!/bin/bash
+
+read -p "Provide the file name you want to find: " FILE_NAME
+
+#FILE_NAME=$1
+
+if_file_exists(){
+
+  if [ -f $FILE_NAME ];
+  then
+    echo "The file $FILE_NAME exists! The contents of the file are as below: \n";echo;
+    sudo cat $FILE_NAME;echo
+  else
+    echo "The mentioned file $FILE_NAME does not exist!!"
+  fi
+
+}
+if_file_exists
+

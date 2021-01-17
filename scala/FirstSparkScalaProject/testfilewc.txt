@@ -1,0 +1,15 @@
+
+
+here's the settings to change the scala compiler
+
+    right click on your project -> choose "properties"
+    from the menu tree on the left select 'Scala compiler'
+    check "use project settings" if unchecked
+    select the appropriate Scala installation from the 'Scala Installation' drop down
+    close the project properties window
+    rebuild project
+
+my personal peeve is that when I run the eclipse plugin command from sbt, it always resets the scala installation for my project to " Latest 2.12 bundle (dynamic)" so I've gotten pretty use to manually resetting my scala compiler version (along with my build path source directories).
+
+If you need to (re)set your scala library container you can also do this in the project properties window (via the "Java Build Path" -> Libraries section). You may need to do this if you don't have an explicit fixed 2.12.1 installation available as an option in the above drop down.
+

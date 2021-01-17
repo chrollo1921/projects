@@ -1,0 +1,24 @@
+~run
+compile
+run
+~run
+run
+~run
+compile
+~run
+rebuild
+reload
+compile
+run
+compile
+run
+exit
+~run
+compile
+run
+~run
+exit
+ip r
+ip r;
+~run
+exit

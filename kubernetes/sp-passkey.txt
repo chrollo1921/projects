@@ -1,0 +1,7 @@
+PS C:\Users\M1061298> az ad sp create-for-rbac --skip-assignment -o json                                                                                                                        {
+  "appId": "a5ed4894-ccb9-4ed3-a50f-02e09afe0fd4",
+  "displayName": "azure-cli-2020-11-21-07-26-44",
+  "name": "http://azure-cli-2020-11-21-07-26-44",
+  "password": "JI40gGl3kn3yu70dDp5wKzzDMvy~g0~U5U",
+  "tenant": "3f5c9d3f-f172-4418-a14d-37d1194f2621"
+}
