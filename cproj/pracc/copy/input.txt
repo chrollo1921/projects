@@ -1,1 +1,13 @@
 Hi there I am working and testing the input.txt file
+
+  Before we embark on a brief tour of C's basic syntax and structure we offer a brief history of C and consider the characteristics of the C language.
+
+In the remainder of the Chapter we will look at the basic aspects of C programs such as C program structure, the declaration of variables, data types and operators. We will assume knowledge of a high level language, such as PASCAL.
+
+It is our intention to provide a quick guide through similar C principles to most high level languages. Here the syntax may be slightly different but the concepts exactly the same.
+
+C does have a few surprises:
+
+    Many High level languages, like PASCAL, are highly disciplined and structured.
+    However beware -- C is much more flexible and free-wheeling. This freedom gives C much more power that experienced users can employ. The above example below (mystery.c) illustrates how bad things could really get. 
+
