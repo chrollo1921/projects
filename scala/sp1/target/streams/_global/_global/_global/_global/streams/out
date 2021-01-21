@@ -1,0 +1,34 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [hello / Compile / run] Found inputs: /hisoka/projects/scala/sp1/*.{java,scala},/hisoka/projects/scala/sp1/src/main/java/**/*.{java,scala},/hisoka/projects/scala/sp1/src/main/resources/**/*,/hisoka/projects/scala/sp1/src/main/scala/**/*.{java,scala},/hisoka/projects/scala/sp1/src/main/scala-2.12/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for hello/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / run - Accepted event for /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/hisoka/projects/scala/sp1/src/main/scala/sp1.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /hisoka/projects/scala/sp1/src/main/scala/sp1.scala (previous stamp: Hash(5c46c83d85b4ffc2dd45655bf791303b53574d8c), current stamp: Hash(5efe18cbf294d464dff741b722275fe29a79a013))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /hisoka/projects/scala/sp1/src/main/scala/sp1.scala -> Trigger. Returning: (Update(/hisoka/projects/scala/sp1/src/main/scala/sp1.scala, 2021-Jan-21 19:25:54.829 IT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /hisoka/projects/scala/sp1/src/main/scala/sp1.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/hisoka/projects/scala/sp1/src/main/scala/sp1.scala, 2021-Jan-21 19:25:54.829 IT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for hello/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / run - Accepted event for /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/hisoka/projects/scala/sp1/src/main/scala/sp1.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / run - Accepted event for /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/hisoka/projects/scala/sp1/src/main/scala/sp1.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /hisoka/projects/scala/sp1/src/main/scala/sp1.scala (previous stamp: Hash(5efe18cbf294d464dff741b722275fe29a79a013), current stamp: Hash(461388a5ea5e2caa7f3abaf453724fac34ddc835))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /hisoka/projects/scala/sp1/src/main/scala/sp1.scala -> Trigger. Returning: (Update(/hisoka/projects/scala/sp1/src/main/scala/sp1.scala, 2021-Jan-21 19:26:36.166 IT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /hisoka/projects/scala/sp1/src/main/scala/sp1.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/hisoka/projects/scala/sp1/src/main/scala/sp1.scala, 2021-Jan-21 19:26:36.166 IT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for hello/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /hisoka/projects/scala/sp1/src/main/scala/sp1.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / run - Accepted event for /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/hisoka/projects/scala/sp1/src/main/scala/sp1.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / run - Accepted event for /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/hisoka/projects/scala/sp1/src/main/scala/sp1.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mDropping event for unmodified path /hisoka/projects/scala/sp1/src/main/scala/sp1.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /hisoka/projects/scala/sp1/src/main/scala/sp1.scala. This event occurred 2 ms since the last event for this path.[0m

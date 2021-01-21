@@ -8,3 +8,15 @@ exit
 reload
 :q
 exit
+run
+~run
+compile
+help
+projects
+last
+console
+~run
+compile;run
+run
+reload
+run
