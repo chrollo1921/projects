@@ -20,3 +20,4 @@ compile;run
 run
 reload
 run
+exit
